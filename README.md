@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am a first-year Software Development student at New Brunswick Community College (NBCC), passionate about exploring the realms of coding, and building robust and real-world applications.</p>
+<p align="left">I am a Software Development student at New Brunswick Community College (NBCC), passionate about exploring the realms of coding, and building robust and real-world applications.</p>
 
 ###
 
