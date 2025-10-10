@@ -1,7 +1,10 @@
 <h1 align="center">👋 Hi, I'm Gabriel Rodrigues</h1>
 
 <p align="center">
-💻 Software Development Student | 🚀 Aspiring Fullstack Developer | 🌎 Lifelong Learner
+💻 Software Development Student | 🚀 Aspiring Fullstack Developer | 🌎 Lifelong Learner 
+  <br />
+  <br />
+  <a href="https://drive.google.com/file/d/1uRduOLy5qwpI484sp4UhMs91YyeC0k2P/view?usp=drive_link"><img src="https://img.shields.io/badge/Download_my_Resume-C8E2AF?style=for-the-badge"></a>
 </p>
 
 ---
@@ -89,7 +92,7 @@ I enjoy transforming ideas into scalable, real-world applications and exploring 
    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🎖️ Honorable Mentions
-- [**Practice Repository**](https://github.com/Gabriel-MRodrigues/Practice) - A collection of coding exercises, algorithms, and small projects to enhance problem-solving skills.
+- [![Practice Repository](https://img.shields.io/badge/Practice_Repository-E4B44C?style=for-the-badge)](https://github.com/Gabriel-MRodrigues/Practice) - A collection of coding exercises, algorithms, and small projects to enhance problem-solving skills.
   - **Tech Stack**: C#, JavaScript, HTML, CSS, NodeJs, Python, Java, C++, C
   - **Highlights**:
     - LeetCode solutions.
@@ -114,5 +117,3 @@ I enjoy transforming ideas into scalable, real-world applications and exploring 
 
 ## 📫 Contact Me
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmrodriguest@gmail.com)  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/gabriel-mendes-rodrigues/)  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-MRodrigues)  
-
----
