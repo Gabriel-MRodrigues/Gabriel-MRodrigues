@@ -4,7 +4,7 @@
 💻 Software Development Student | 🚀 Aspiring Fullstack Developer | 🌎 Lifelong Learner 
   <br />
   <br />
-  <a href="https://drive.google.com/file/d/1uRduOLy5qwpI484sp4UhMs91YyeC0k2P/view?usp=drive_link"><img src="https://img.shields.io/badge/Download_my_Resume-C8E2AF?style=for-the-badge"></a>
+  <a href="https://drive.google.com/file/d/1TOwI3YSbazawjKOT_JIJOYtqxc3HF0e8/view?usp=sharing"><img src="https://img.shields.io/badge/Download_my_Resume-C8E2AF?style=for-the-badge"></a>
 </p>
 
 ---
