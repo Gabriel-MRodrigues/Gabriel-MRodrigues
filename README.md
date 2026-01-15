@@ -4,12 +4,12 @@
 💻 Software Development Student | 🚀 Aspiring Fullstack Developer | 🌎 Lifelong Learner 
   <br />
   <br />
-  <a href="https://drive.google.com/file/d/1TOwI3YSbazawjKOT_JIJOYtqxc3HF0e8/view?usp=sharing"><img src="https://img.shields.io/badge/Download_my_Resume-C8E2AF?style=for-the-badge"></a>
+  <a href="https://drive.google.com/file/d/1aZxGD2bYhXqOQnlB7t3S60iX9IucRM30/view?usp=drive_link"><img src="https://img.shields.io/badge/Download_my_Resume-C8E2AF?style=for-the-badge"></a>
 </p>
 
 ---
 
-## ✨ About Me
+## About Me
 I’m currently pursuing **Software Development at New Brunswick Community College (NBCC)**.  
 I enjoy transforming ideas into scalable, real-world applications and exploring the intersection of **frontend, backend, and cloud technologies**, as well as **embedded systems**.  
 
@@ -19,7 +19,7 @@ I enjoy transforming ideas into scalable, real-world applications and exploring 
 
 ---
 
-## ⚙️ Skills
+## Skills
 
 - **Languages:**  
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -27,6 +27,7 @@ I enjoy transforming ideas into scalable, real-world applications and exploring 
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -53,46 +54,37 @@ I enjoy transforming ideas into scalable, real-world applications and exploring 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
 ## 📂 Projects
 
-### 📘 Library Management System (OOP Final Project)  
-- **Description:** A console-based application to manage students, librarians, and books.  
-- **Tech:** C#, OOP principles (Polymorphism, Encapsulation).  
-- **Role:** Backend Development (backend logic).  
-- **Repo:** [Library Management System](https://github.com/Gabriel-MRodrigues/Library-Management-System)  
+### Alarm Control Node  
+- **Description:** A simple alarm system built with an ESP32, designed as a control node that monitors motion, triggers alerts, and allows manual user interaction.
+- **Tech:** C++, ESP32.   
+- **Repo:** [Alarm Control Node](https://github.com/Gabriel-MRodrigues/Embedded_Systems/tree/main/control-node)  
 
-### 🏨 Game Store  
+### Game Store  
 - **Description:** A CRUD-based system for a game store.  
 - **Tech:** C#, .NET, Blazor, CSS, HTML.  
 - **Role:** Full-Stack development, Backend & API design.  
 - **Repo:** [Game Store](https://github.com/Gabriel-MRodrigues/GameStore)  
 
-### ✍️ Bio Generator App  
+### Bio Generator App  
 - **Description:** App that collects user information through a form, send to Gemini API and return JSON format to display a nice Biography of the user.  
 - **Tech:** JavaScript, React, NodeJS, ExpressJS, Gemini API, HTML, CSS.  
 - **Role:** Fullstack development.  
 - **Repo:** [Bio Generator App](https://github.com/Gabriel-MRodrigues/Bio-Generator-App)
 ---
-### 🔁 Ongoing Projects (Coming soon...)
- - **Travel Dashboard App -**
-   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-   ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-   
+### Ongoing Projects (Coming soon...)
  - **Hotel Booking App -**
    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
    ![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=for-the-badge&logo=Handlebars.js&logoColor=white)
    ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-   
- - **Customers Dashboard -**
-   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 🎖️ Honorable Mentions
+### Honorable Mentions
 - [![Practice Repository](https://img.shields.io/badge/Practice_Repository-E4B44C?style=for-the-badge)](https://github.com/Gabriel-MRodrigues/Practice) - A collection of coding exercises, algorithms, and small projects to enhance problem-solving skills.
   - **Tech Stack**: C#, JavaScript, HTML, CSS, NodeJs, Python, Java, C++, C
   - **Highlights**:
@@ -102,7 +94,7 @@ I enjoy transforming ideas into scalable, real-world applications and exploring 
   - **Skills Demonstrated**: Algorithmic Thinking, Data Structures, Problem Solving.
 ---
 
-## 💼 Experience
+## Experience
 - **Part-time Work:** Working as a Server at East Side Mario's, where I learned to collaborate in fast-paced environments.
 - **College Projects:** Currently gaining professional experience through **team projects and personal projects.**
 - **Expectations:** Looking forward to internships and full-time opportunities.  
