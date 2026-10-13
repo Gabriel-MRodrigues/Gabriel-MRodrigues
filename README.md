@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Gabriel Rodrigues</h1>
 
 <p align="center">
-💻 Software Development Student | 🚀 Aspiring Fullstack Developer | 🌎 Lifelong Learner 
+💻 Software Development Graduate | 🚀 Aspiring Fullstack Developer
   <br />
   <br />
 </p>
@@ -9,14 +9,14 @@
 ---
 
 ## About Me
-I’m currently pursuing **Software Development at New Brunswick Community College (NBCC)**.  
+I'm a **Software Development** graduate from **New Brunswick Community College (NBCC)**.  
 I enjoy transforming ideas into scalable, real-world applications and exploring the intersection of **frontend, backend, and cloud technologies**, as well as **embedded systems**.  
 
-🔹 Passionate about **building fullstack applications**  
-🔹 Interested in **cloud technologies, modern frameworks & embedded systems**  
-🔹 Goal: Land a role as a **Fullstack Developer**  
+- Passionate about **building fullstack applications**  
+- Interested in **cloud technologies, modern frameworks & embedded systems**  
+- Goal: Land a role as a **Fullstack Developer**  
 
-Check out my [coding portfolio](https://portfolio-gabrielrodrigues.vercel.app/)
+Check out my [Portfolio](https://portfolio-gabrielrodrigues.vercel.app/)
 
 ---
 
@@ -63,14 +63,16 @@ Check out my [coding portfolio](https://portfolio-gabrielrodrigues.vercel.app/)
 ---
 ## Experience
 - **Part-time Work:** Working as a Server at East Side Mario's, where I learned to collaborate in fast-paced environments.
-- **College Projects:** Currently gaining professional experience through **team projects and personal projects.**
-- **Expectations:** Looking forward to internships and full-time opportunities.  
+- **Volunteer:** Continued working on the New Brunswick Plants project as a Volunteer until September 2026 - [NBPlants](https://newbrunswickplants.ca/)  ![latest-badge](https://badgen.net/badge/xp/latest/yellow?icon=vercel)
+- **Practicum:** Completed my practicum term at New Brunswick Plants as a Junior Full-Stack Developer - [NBPlants](https://newbrunswickplants.ca/)
+- **Projects:** Currently gaining professional experience through **team projects and personal projects.**
+- **Expectations:** Looking forward to full-time opportunities.  
 
 ---
 
 ## 🎓 Education
 - **Diploma in Information Technology: Software Development**  
-*New Brunswick Community College (NBCC)* | 2024–2026 (Expected)  
+*New Brunswick Community College (NBCC)* | 2024–2026 | Graduated June 2026  
 
 ---
 
